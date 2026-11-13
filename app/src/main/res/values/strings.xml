@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LexiCards</string>
+    <string name="dashboard_title">LexiCards</string>
+    <string name="dashboard_subtitle">Multilingual UTF-8 Decks</string>
+    <string name="action_new_deck">New Deck</string>
+    <string name="action_import_csv">Import CSV</string>
+    <string name="action_export_csv">Export CSV</string>
+    <string name="action_add_card">Add Card</string>
+    <string name="action_study_flip">Study Cards</string>
+    <string name="action_study_mcq">MCQ Quiz</string>
+    <string name="mcq_disabled_hint">Need at least 4 cards for MCQ</string>
+    <string name="search_cards_placeholder">Search cards (accent-sensitive)…</string>
+    <string name="empty_decks_title">No decks yet</string>
+    <string name="empty_decks_body">Create a deck or import a UTF-8 CSV file to start.</string>
+    <string name="empty_cards_title">No cards in this deck</string>
+    <string name="empty_cards_body">Tap Add Card or Import CSV to add entries.</string>
+</resources>

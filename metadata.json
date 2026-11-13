@@ -1,0 +1,6 @@
+{
+  "name": "LexiCards",
+  "description": "Multilingual UTF-8 flashcard and quiz app supporting French, Bengali, English, and RTL scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
